@@ -17,5 +17,5 @@ This userscript adds Audio Panning (Left/Right) and Multi View features to Twitc
 2. **Allow userscript**  
    Enable “Allow User Scripts” in the Extensions settings. For more details, see the official [FAQ](https://www.tampermonkey.net/faq.php?locale=en&q=Q209).
 
-3. **Install youtube-ufret-chords-usersciprt**    
+3. **Install Twitch-pan-and-multiview**    
    You can install it [here](https://github.com/grmpnk/Twitch-pan-and-multiview/raw/refs/heads/main/userscript.user.js)
