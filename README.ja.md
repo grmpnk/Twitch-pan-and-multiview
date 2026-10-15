@@ -16,5 +16,5 @@
 2. **ユーザースクリプトを許可する**  
    拡張機能の管理で「ユーザースクリプトを許可」してください。詳しくは公式 [FAQ](https://www.tampermonkey.net/faq.php?locale=ja&q=Q209) を参照してください。  
 
-3. **youtube-ufret-chords-usersciprt をインストール**    
+3. **Twitch-pan-and-multiview をインストール**    
    [ここ](https://github.com/grmpnk/Twitch-pan-and-multiview/raw/refs/heads/main/userscript.user.js) から インストールできます。
