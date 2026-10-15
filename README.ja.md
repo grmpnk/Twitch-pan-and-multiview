@@ -1,10 +1,13 @@
 # 概要
 このユーザースクリプトは、Twitch（twitch.tv）で `音声割り振り（L・R）`と`multi view` を実装します。
+![screenshot](screenshot.jpg)
+![screenshot](screenshot2.jpg)
+![screenshot](screenshot3.jpg)
 # 機能
 1. **Pan**
    - 音声をチャンネルごとに左右に割り振ることができます。
 2. **Multi view**
-   - カードを`ドラッグ＆ドロップ`するか`チャンネル名を入力`して複窓で視聴できるようになります。
+   - アップロードアイコンにカードを`ドラッグ＆ドロップ`するか`チャンネル名を入力`してviewボタンをクリックすると複窓で視聴できるようになります。
 # インストール
 1. **Tampermonkey をインストールする**  
    - Chrome : [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey-%E3%83%99%E3%83%BC%E3%82%BF%E7%89%88/gcalenpjmijncebpfijmoaglllgpjagf)
